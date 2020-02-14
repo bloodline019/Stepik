@@ -7,3 +7,4 @@ while 1:
     if sum == 0:
         break
 print(out)
+print("difference")

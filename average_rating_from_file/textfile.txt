@@ -1,0 +1,3 @@
+Petrov;1;1;4
+Sidorov;2;2;2
+Ivanov;3;3;3
